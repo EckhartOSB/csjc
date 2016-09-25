@@ -1,0 +1,5 @@
+Gregorio reference: http://gregorio-project.github.io/gabc/index.html
+
+More about Gregorian notation: http://media.musicasacra.com/pdf/neumes.pdf
+
+When using the online Gregorio Chant Engraver (http://gregorio.gabrielmass.com/cgi/process.pl) to produce a PDF, set "Scaling factor for music" to 30.
