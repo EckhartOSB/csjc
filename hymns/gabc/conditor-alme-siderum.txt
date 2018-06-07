@@ -1,0 +1,16 @@
+name: Conditor Alme Siderum;
+transcriber: Br. Eckhart Camden CSJC;
+transcription-date: 2018;
+user-notes: ;
+commentary: Vespers Plainsong, Mode 4
+%fontsize: 14;
+%spacing: vichi;
+%font: GaramondPremierPro;
+%width: 4.5;
+%height: 11;
+%%
+(f3)(g)(e)(g)(i)(j)(j)(h)(i)(,)
+(i)(j)(h)(i)(h)(g)(f)(g.)(;z)
+(i)(h)(f)(g)(h)(g)(f)(e)(,)
+(e)(g)(h)(i)(h)(g)(f)(g.)(::)
+A(g_hg)men(f_g.)(z::)
