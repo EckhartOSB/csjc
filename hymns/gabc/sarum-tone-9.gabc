@@ -1,0 +1,16 @@
+name: Sarum Tone 9;
+user-notes: ;
+commentary: None Hymn;
+annotation: ij;
+centering-scheme: english;
+%fontsize: 14;
+%spacing: vichi;
+%font: GaramondPremierPro;
+%width: 4.5;
+%height: 11;
+%%
+(c4)(h)(g)(h)(j)(k)(j)(i)(h.)(;)
+(k)(k)(j)(k)(ji)(h)(g)(h.)(;z) 
+(h)(h)(i)(g)(e)(g)(h)(h.)(;)
+(h)(g)(h)(j)(k)(j)(i)(h.)(::)
+A(h_ih)men(g_h.)(z::)
